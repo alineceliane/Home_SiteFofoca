@@ -14,7 +14,7 @@
     
 
         <ul id="buttons">
-             <li class="logo"> <a href="sitefofoca.html" target="_blank"  > F&N</a> </li>
+             <li class="logo"> <a href="../Home Final Site fofoca/sitefofoca.html" target="_blank"  > F&N</a> </li>
              <li > <a href="#" target="_blank">Fazer Login </a></li>
              <li> <a href="../HTML/SiteFofocaCadastro.html" target="_blank">Criar Conta </a> </li>
              <li > <a href="../HTML/SiteFofocaContatos.html" target="_blank"> Contatos </a> </li>
